@@ -1,0 +1,64 @@
+GIS related Jupyter notebooks
+=============================
+
+https://github.com/jupyter-widgets/ipyleaflet
+
+
+
+
+
+
+https://www.gsj.jp/Map/EN/marine-geology.html
+https://www.gsj.jp/en/index.html
+https://gbank.gsj.jp/sbp_db/802html/PAGES/802E.html
+
+https://geospatial.com/resources/country-data/japan/
+https://www.jmc.or.jp/   Japan map centre
+
+https://www.4coffshore.com/subscriptions/mapping-and-gis/
+https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap18/CRP/18th_UNRCCAP_econf.100_crp2.pdf
+http://www.fukushima-forward.jp/english/deta/index.html
+
+
+https://towardsdatascience.com/geotiff-js-how-to-get-projected-data-for-a-latitude-longitude-coordinate-87ca437b5aa0
+https://towardsdatascience.com/creating-beautiful-topography-maps-with-python-efced5507aa3
+https://betterprogramming.pub/creating-topographic-maps-in-python-convergence-of-art-and-data-science-7492b8c9fa6e
+https://github.com/earthlab/earthpy
+https://github.com/earthinversion/plotting_topographic_maps_in_python
+
+https://docs.pyvista.org/version/stable/examples/00-load/index.html
+https://www.neonscience.org/resources/learning-hub/tutorials/create-hillshade-py
+https://gwlucastrig.github.io/gridfour/
+https://gwlucastrig.github.io/GridfourDocs/notes/ElevationGeoTiff1.html
+https://kokoalberti.com/articles/creating-elevation-profiles-with-gdal-and-two-point-equidistant-projection/
+https://gis.stackexchange.com/questions/215981/plotting-cross-section-using-python-gdal-tiff
+https://stackoverflow.com/questions/24956653/read-elevation-using-gdal-python-from-geotiff
+https://stackoverflow.com/questions/74026802/get-elevation-from-lat-long-of-geotiff-data-in-gdal
+https://gis.stackexchange.com/questions/435898/get-elevation-from-tiff-using-rasterio-python
+
+https://fneum.github.io/data-science-for-esm/06-workshop-atlite.html
+
+https://pygis.io/docs/a_intro.html
+https://mapscaping.com/converting-a-geotiff-to-png/
+
+https://github.com/tschopo/elevation_profile
+
+
+https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?request=getcapabilities&service=wms&version=1.3.0
+https://docs.geoserver.org/2.23.x/en/user/services/wms/reference.html#getfeatureinfo
+
+https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?request=getfeatureinfo&service=wms&crs=EPSG:4326&layers=gebco_latest_2&query_layers=gebco_latest_2&BBOX=50,-20,51,-19&info_format=text/plain&service=wms&x=20&y=20&width=900&height=600&version=1.3.0
+GetFeatureInfo results:
+
+Layer 'GEBCO_LATEST_2'
+  Feature 0: 
+    x = '-19.977083'
+    y = '50.964583'
+    value_list = '-3621'
+
+https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?request=getfeatureinfo&service=wms&crs=EPSG:4326&layers=gebco_latest_2&query_layers=gebco_latest_2&BBOX=33,138,38,143&info_format=text/plain&service=wms&x=400&y=400&width=951&height=400&version=1.3.0
+
+
+
+
+
