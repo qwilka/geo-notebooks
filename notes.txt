@@ -1,0 +1,18 @@
+
+
+
+
+https://libgeos.org/
+https://github.com/google/s2geometry
+https://github.com/paleolimbot/s2geography
+
+https://github.com/jorisvandenbossche?tab=repositories
+https://github.com/abellgithub?tab=repositories
+https://github.com/tschaub?tab=repositories
+
+https://github.com/tschaub/geofunc  working with GeoJSON 
+https://github.com/flatgeobuf/flatgeobuf  performant binary encoding for geographic data based on flatbuffers 
+https://github.com/mourner/flatbush
+https://github.com/mapbox/geobuf
+https://github.com/mapbox/delaunator
+

@@ -1,3 +1,6 @@
+
+jupyter notebook --browser chromium
+
 GIS related Jupyter notebooks
 =============================
 
