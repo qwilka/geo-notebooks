@@ -79,7 +79,7 @@ def get_elevations(map, coords):
         #print(payload["x"], payload["y"])
         #print(payload["BBOX"])
         gebcoStr = ""
-        url = 'https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv'
+        url = 'https://wms.gebco.net/mapserv'
         req = requests.get(url, params=payload)
         # https://requests.kennethreitz.org/en/latest/user/advanced/#prepared-requests
         #req = requests.Request('GET', url, data=payload)

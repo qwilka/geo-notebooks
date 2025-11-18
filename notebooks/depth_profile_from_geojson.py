@@ -17,7 +17,7 @@ from ipyleaflet import (Map, basemaps, basemap_to_tiles, WMSLayer, Marker, GeoJS
 # basemaps.Esri.WorldImagery
 # basemap=basemap_to_tiles(basemaps.Esri.WorldImagery),
 gebco =WMSLayer(
-    url='https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv',
+    url='https://wms.gebco.net/mapserv',
     layers='GEBCO_LATEST',
     format='image/png',
     transparent=True,
